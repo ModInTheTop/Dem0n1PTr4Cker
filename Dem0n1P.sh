@@ -37,7 +37,8 @@ cat <<'ART'
 ART
 printf "\e[0m\n"
 
-printf "\e[0m\e[1;35m Created By ModInTheTop \e[0m\e[1;37m(\e[0m\e[1;35m BAACHIRII \e[0m\e[1;37m)\e[0m\n"
+printf "\e[0m\e[1;35m Created By > ModInTheTop \e[0m\e[1;37m(\e[0m\e[1;35m BAACHIRII \e[0m\e[1;37m)\e[0m\n"
+printf "\e[0m\e[1;35m Version > \e[0m\e[1;37m(\e[0m\e[1;35m 1.0 \e[0m\e[1;37m)\e[0m\n"
 
 }
 
