@@ -44,7 +44,7 @@ printf "\e[0m\e[1;35m Version -> \e[0m\e[1;37m(\e[0m\e[1;35m 1.0 \e[0m\e[1;37m)\
 
 menu() {
 printf "\e[0m\n"
-printf "\e[0m\e[1;37m  [\e[0m\e[1;35m01\e[0m\e[1;37m]\e[0m\e[1;36m My IP\e[0m\n"
+printf "\e[0m\e[1;37m  [\e[0m\e[1;35m01\e[0m\e[1;37m]\e[0m\e[1;36m My IP\e[0m\n"           printf "\e[0m\e[1;37m  [\e[0m\e[1;35m02\e[0m\e[1;37m]\e[0m\e[1;36m Trackear Ip\e[0m\n"
 printf "\e[0m\e[1;37m  [\e[0m\e[1;35m02\e[0m\e[1;37m]\e[0m\e[1;36m Trackear Ip\e[0m\n"
 printf "\e[0m\e[1;37m  [\e[0m\e[1;35m00\e[0m\e[1;37m]\e[0m\e[1;36m Salir\e[0m\n"
 printf "\e[0m\n"
